@@ -1,4 +1,4 @@
- Car Models Classification using data set in Kaggle
+ Car Models Classification using cars dataset in Kaggle
 
 ## Overview
 This project uses PyTorch, torchvision package and transfer learning to train pre-trained model to identify the car models.
@@ -8,7 +8,8 @@ The pre-trained model use here was ResNet (Residual Neural Network). The [cars d
 - Jupyter Notebooks
 - PyTorch
 - Libraries: numpy, matplotlib.pyplot
-#the work steps:
+
+##the work steps:
 - Step 1: Load Dataset
 - Step 2: Transform the Dataset
 - Step 3: Create Model
